@@ -3,8 +3,8 @@
 - To learn how to retrieve & utlize API info.
 - Application was done in the following process:
 
-:astonished: Retrieving weather data & analyzing for cities narrowing search by current temps between 75 & 90 deg.F.
+    :astonished: Retrieving weather data & analyzing for cities narrowing search by current temps between 75 & 90 deg.F.
 
-:astonished: Based on weather data, created a list of potential vacation cities.
+    :astonished: Based on weather data, created a list of potential vacation cities.
 
-:astonished: Planned a driving route of four cities with a return to the city where started from on the route.
+    :astonished: Planned a driving route of four cities with a return to the city where started from on the route.
