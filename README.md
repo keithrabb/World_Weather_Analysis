@@ -8,3 +8,5 @@
     :astonished: Based on weather data, created a list of potential vacation cities.
 
     :astonished: Planned a driving route of four cities with a return to the city where started from on the route.
+
+<img src=
