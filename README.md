@@ -9,4 +9,5 @@
 
     :astonished: Planned a driving route of four cities with a return to the city where started from on the route.
 
-<img src=https://github.com/keithrabb/World_Weather_Analysis/tree/main/Vacation_Itinerary/WeatherPy_travel_map_mark_2.PNG>
+
+![WeatherPy_travel_map_mark_2] (Vacation_Itinerary/WeatherPy_travel_map_mark_2.PNG)
